@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyKomponenWidget</string>
+<string-array name="agama">
+    <item>pilih</item>
+    <item>Islam</item>
+    <item>Kristen</item>
+    <item>Hindu</item>
+    <item>Buddha</item>
+</string-array>
+
+    <string-array name="jurusan">
+        <item>pilih</item>
+
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Industri</item>
+    </string-array>
+</resources>
